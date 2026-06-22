@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from code.const import ENTITY_SPEED, WIN_WIDTH
-from entity import Entity
+from code.entity import Entity
 
 
 class Enemy(Entity):

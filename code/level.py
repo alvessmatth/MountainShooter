@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import sys
-from random import choice, random
+import random
 
 import pygame
 from pygame import Surface, Rect
